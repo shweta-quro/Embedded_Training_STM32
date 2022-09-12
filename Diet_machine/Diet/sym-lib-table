@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name G5Q-1A-DC5)(type Legacy)(uri "D:/Ankit Devani/Projects/Tea_vending/Tea Vending/G5Q-1A-DC5V/G5Q-1A-DC5.lib")(options "")(descr ""))
+  (lib (name Diet-rescue)(type Legacy)(uri ${KIPRJMOD}/Diet-rescue.lib)(options "")(descr ""))
+)

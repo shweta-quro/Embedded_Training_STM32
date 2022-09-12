@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BK-885-TR)(type Legacy)(uri "D:/Ankit Devani/Projects/Diet Machine/Diet_machine/MicrocontrollerDiet/BK-885-TR/BK-885-TR.mod")(options "")(descr ""))
+  (lib (name LOGO)(type KiCad)(uri "D:/Ankit Devani/LOGO")(options "")(descr ""))
+)

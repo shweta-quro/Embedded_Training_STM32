@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BK-885-TR
+D BATTERY RETAINER COIN 12MM SMD
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Memory%20Protection%20PDFs/BK-885-TR_Spec.pdf
+$ENDCMP
+#
+#End Doc Library
